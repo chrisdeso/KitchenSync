@@ -12,7 +12,7 @@ KitchenSync connects a main computer to four specialized kitchen printers (expo,
 
 ### Managing Menu Items and Inventory
 
-Before service starts, kitchen staff enters how much of each item they've prepped for the day. This way, servers know immediately when something's 86'd and won't promise customers dishes we can't deliver. The system tracks everything in real-time as orders come in.
+Before service starts, kitchen staff enters how much of each item theat's prepped for the day. This way, servers know immediately when something's 86'd and won't promise customers dishes we can't deliver. The system tracks everything in real-time as orders come in.
 
 Menu items will be oranized by category (entrees, appetizers, desserts, drinks) so servers can find what they need quickly instead of scrolling through everything. There's also a dedicated section for protein add-ons to salads and pastas - customers love customizing their orders, and this keeps our inventory counts accurate.
 
