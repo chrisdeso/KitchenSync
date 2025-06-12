@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class User {
         +int user_id
@@ -53,3 +54,4 @@ classDiagram
     OrderItem "1" --> "1" Inventory : consumes
     Order --> Printer : sends to
     Order --> Payment : generates
+```
